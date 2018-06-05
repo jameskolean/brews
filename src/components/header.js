@@ -41,8 +41,6 @@ const Header = ({ data }) => {
   return (
   <HeaderWrapper>
     <HeaderContainer className="header">
-    <NavLink to="/brews">
-
       <HeaderBanner className="banner">
         <h1>
           <Link to="/">
@@ -50,11 +48,14 @@ const Header = ({ data }) => {
           </Link>
         </h1>
         <div>
+
           <h1>{data.site.siteMetadata.title}</h1>
           <h3>{data.site.siteMetadata.desc}</h3>
         </div>
-      </HeaderBanner>
-      </NavLink>
+        </HeaderBanner>
+    <nav>
+    <NavLink to="/brews">Show me some of your brews</NavLink>
+      </nav>
     </HeaderContainer>
     <Img 
       style={{
