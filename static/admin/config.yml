@@ -1,38 +1,22 @@
 backend: 
   name: github
-  repo: jameskolean/nihonGo-Gatsby
-#  name: test-repo
+  repo: jameskolean/brews
+#  repo: test-repo
 
 publish_mode: editorial_workflow
 media_folder: "static/media/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/media/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: course
-    label: Course
-    folder: src/markdown/course
+  - name: brew
+    label: Brew
+    folder: src/markdown/brew
     create: true
     fields: 
       - {name: title, label: Title}
       - {name: subtitle, label: Subtitle}
-      - {name: type, label: Type, widget: "select", options: ["course", "lesson"]}
+      - {name: type, label: Type, widget: "select", options: ["IPA", "Pilsner", "Sour", "Stout"]}
       - {name: date, label: "Update Date", widget: date}
+      - {name: thumbnail, label: "Thumbnail", widget: "image"}
+      - {name: image, label: "Image", widget: "image"}
       - {name: body, label: Description, widget: markdown}
- 
-  - name: lesson
-    label: Lesson 
-    folder: src/markdown/lesson
-    create: true
-    fields: 
-      - {name: type, label: Type, widget: "select", options: ["course", "lesson"]}
-      - {name: course,   
-          label: Course,   
-          widget: "relation", 
-          collection: "course",
-          searchFields: ["title"],
-          valueField: "title",
-          displayFields: ["title", "subtitle", "date"]
-        }
-      - {name: date, label: "Update Date", widget: date}
-      - {name: title, label: Title}
-      - {name: body, label: Lesson, widget: markdown}
