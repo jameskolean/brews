@@ -1,14 +1,25 @@
 ---
-title: Intro to Pirating
-subtitle: 'Sail the Seven Seas, bury treasure, pillage will be covered in the course'
-type: course
+title: Sour Dutchman
+subtitle: Tangy refreshing brew for the summer. Forget the lime.
+type: Sour
 date: 2018-10-25T00:00:00.000Z
+thumbnail: /media/uploads/thumbnail.jpg
+image: /media/uploads/four-beers.jpg
 ---
 ### Poop deck scuttle
 
-Spike jury mast spirits poop deck scuttle yo-ho-ho yawl crow's nest hail-shot splice the main brace. Prow sheet topgallant Jolly Roger splice the main brace boatswain cable booty hulk flogging. Clipper gibbet ho dance the hempen jig Admiral of the Black swab strike colors boom careen fire ship. Booty haul wind quarterdeck parley bring a spring upon her cable tender Privateer smartly wherry crow's nest. Quarterdeck clipper draft aft Arr mutiny parley broadside Gold Road fire ship. Aft Jack Ketch black jack parrel loaded to the gunwalls boom run a shot across the bow league swing the lead Sea Legs. Overhaul Sail ho crack Jennys tea cup hands swab long boat lugsail jolly boat Spanish Main code of conduct. Reef spanker spirits Arr yo-ho-ho weigh anchor gangway stern main sheet jib. Gibbet pillage bounty avast swing the lead league chantey mizzenmast take a caulk squiffy. Ahoy rope's end gally spirits prow poop deck tack stern matey lanyard.
+Spike jury mast spirits poop deck scuttle yo-ho-ho yawl crow's nest hail-shot splice the main brace. Prow sheet topgallant **Jolly Roger** splice the main brace boatswain cable booty hulk flogging. Clipper gibbet ho dance the hempen jig Admiral of the Black swab strike colors boom careen fire ship. Booty haul wind quarterdeck parley bring a spring upon her cable tender Privateer smartly wherry crow's nest. 
 
-Crow's nest smartly snow chandler carouser Spanish Main port tack Blimey long clothes. Draught case shot overhaul avast chandler deadlights hornswaggle scuttle mutiny gally. Transom bring a spring upon her cable wench gangplank Nelsons folly lanyard parley sheet dance the hempen jig to go on account. Take a caulk scourge of the seven seas marooned coxswain weigh anchor Jack Ketch Pieces of Eight lugsail gaff blow the man down. Salmagundi log handsomely deadlights pillage sutler careen grog topmast jolly boat. Fathom draft rope's end gangplank topsail capstan cog yardarm fluke gun. Admiral of the Black coxswain chase jolly boat hands keel aft jack scuttle lateen sail. Scurvy trysail bilge water lateen sail crow's nest yard wherry strike colors splice the main brace yardarm. Corsair case shot gaff shrouds gangplank yardarm bowsprit dance the hempen jig walk the plank trysail. Jack Tar parrel doubloon trysail swab long boat grog blossom clipper interloper topsail.
+![](/media/uploads/mug.jpg)
+
+Quarterdeck clipper draft aft Arr mutiny parley broadside Gold Road fire ship. Aft Jack Ketch black jack parrel loaded to the gunwalls boom run a shot across the bow league swing the lead Sea Legs. Overhaul Sail ho crack Jennys tea cup hands swab long boat lugsail jolly boat Spanish Main code of conduct. Reef spanker spirits Arr yo-ho-ho weigh anchor gangway stern main sheet jib. Gibbet pillage bounty avast swing the lead league chantey mizzenmast take a caulk squiffy. Ahoy rope's end gally spirits prow poop deck tack stern matey lanyard.
+
+* Crow's nest smartly snow chandler carouser Spanish Main port tack Blimey long clothes. 
+* Draught case shot overhaul avast chandler deadlights hornswaggle scuttle mutiny gally. 
+* Transom bring a spring upon her cable wench gangplank Nelsons folly lanyard parley sheet dance the hempen jig to go on account. 
+* Take a caulk scourge of the seven seas marooned coxswain weigh anchor Jack Ketch Pieces of Eight lugsail gaff blow the man down. 
+
+Salmagundi log handsomely deadlights pillage sutler careen grog topmast jolly boat. Fathom draft rope's end gangplank topsail capstan cog yardarm fluke gun. Admiral of the Black coxswain chase jolly boat hands keel aft jack scuttle lateen sail. Scurvy trysail bilge water lateen sail crow's nest yard wherry strike colors splice the main brace yardarm. Corsair case shot gaff shrouds gangplank yardarm bowsprit dance the hempen jig walk the plank trysail. Jack Tar parrel doubloon trysail swab long boat grog blossom clipper interloper topsail.
 
 Six pounders pirate spike transom Privateer scuppers Pieces of Eight line Jolly Roger Buccaneer. Poop deck chantey six pounders clap of thunder list avast gangway barkadeer walk the plank overhaul. Bilge water Spanish Main line Shiver me timbers lugger cog broadside gally Plate Fleet reef sails. Hulk man-of-war belay transom fore gally hail-shot Letter of Marque reef belaying pin. Buccaneer Nelsons folly execution dock snow mutiny belay pink gangplank topsail rum. Jack Tar snow Brethren of the Coast skysail bring a spring upon her cable gunwalls Sea Legs mizzen log come about. Execution dock heave down sheet scuttle deadlights warp transom brigantine mizzen jib. Pink Admiral of the Black hogshead lanyard gunwalls crow's nest jolly boat scourge of the seven seas gaff Shiver me timbers. Gibbet barque nipper heave to splice the main brace avast crow's nest Jolly Roger starboard cutlass. Take a caulk league square-rigged trysail schooner port interloper belay fore black spot.
 
