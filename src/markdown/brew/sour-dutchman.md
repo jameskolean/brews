@@ -5,6 +5,7 @@ type: Sour
 date: 2018-10-25T00:00:00.000Z
 thumbnail: /media/uploads/thumbnail.jpg
 image: /media/uploads/four-beers.jpg
+layout: brew
 ---
 ### Poop deck scuttle
 

@@ -16,7 +16,7 @@ const Layout = ({ children, data }) => (
       ]}
     />
     <Header data={data} />
-    {/* <div
+    <div
       style={{
         margin: "0 auto",
         maxWidth: 960,
@@ -25,7 +25,7 @@ const Layout = ({ children, data }) => (
       }}
     >
       {children()}
-    </div> */}
+    </div>
   </div>
 );
 
@@ -37,7 +37,7 @@ Layout.propTypes = {
 export default Layout;
 
 export const query = graphql`
-  query SiteTitleQuery {
+  query BrewTitleQuery {
     site {
       siteMetadata {
         title

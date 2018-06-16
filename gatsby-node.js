@@ -1,6 +1,14 @@
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
+const fm = require("./front-matter");
+const fs = require("fs-extra");
 
+exports.onCreatePage = async function({ page }) {
+  const {
+    attributes: { layout }
+  } = fm(await fs.readFile(page.component, "utf8"));
+  page.layout = layout || "index";
+};
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const setNodeFields = (basePath, baseSlug) => {
     const slug = createFilePath({
@@ -31,14 +39,19 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               fields {
                 slug
               }
+              frontmatter {
+                layout
+              }
             }
           }
         }
       }
     `).then(result => {
       result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+        const layout = node.frontmatter.layout || "index";
         createPage({
           path: node.fields.slug,
+          layout,
           component: path.resolve("./src/templates/BrewPageTmpl.js"),
           context: {
             slug: node.fields.slug

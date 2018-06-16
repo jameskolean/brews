@@ -1,8 +1,11 @@
+/* @meta
+layout: brew
+*/
 import React from "react";
 import Link from "gatsby-link";
 import BrewListing from "../components/brew/brew-listing";
 
-const IndexPage = ({ data }) => (
+const BrewsPage = ({ data }) => (
   <div>
     <h2>Brews</h2>
     {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -11,10 +14,10 @@ const IndexPage = ({ data }) => (
   </div>
 );
 
-export default IndexPage;
+export default BrewsPage;
 
 export const query = graphql`
-  query SiteMeta {
+  query BrewMeta {
     site {
       siteMetadata {
         title

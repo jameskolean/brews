@@ -5,7 +5,7 @@ import styled from "styled-components";
 import Img from "gatsby-image";
 
 const HeaderWrapper = styled.div`
-  height: 90vh;
+  height: 100vh;
   background: black;
   margin-bottom: 1.45rem;
   overflow: hidden;
@@ -31,6 +31,7 @@ const NavLink = styled(Link)`
 `;
 const HeaderBanner = styled.div`
   display: flex;
+  font-family: "Gloria Hallelujah", cursive, Roboto, sans-serif;
   div {
     margin-left: 10px;
   }
